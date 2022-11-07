@@ -1,0 +1,10 @@
+.plagination button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.plagination .selected {
+  background-color: aqua;
+}
